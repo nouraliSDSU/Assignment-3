@@ -44,3 +44,15 @@ a[href^='http']:active{
     color: blue;
     text-decoration: double;
 }
+
+ul {
+    list-style-type: none;
+}
+
+ul li:first-of-type {
+    color: blue;
+}
+
+ul li:last-of-type {
+    color: red;
+}
