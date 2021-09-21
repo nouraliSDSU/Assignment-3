@@ -14,3 +14,13 @@ h3 {
 p:first-of-type::first-letter {
     font-size: 30px;
 }
+
+.solution{
+    color: #CC1C0D;
+    font-weight: bold ;
+}
+
+#testimonial1, #testimonial2 {
+    font-style: italic;
+    margin-left: 50px;
+}
