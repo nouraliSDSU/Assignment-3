@@ -24,3 +24,23 @@ p:first-of-type::first-letter {
     font-style: italic;
     margin-left: 50px;
 }
+
+a[href^='http']:link{
+    color:green;
+    text-decoration: solid;
+}
+
+a[href^='http']:visited{
+    color:yellow;
+    text-decoration: dashed;
+}
+
+a[href^='http']:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+a[href^='http']:active{
+    color: blue;
+    text-decoration: double;
+}
