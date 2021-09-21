@@ -5,3 +5,12 @@ body {
     background-color: #EDEDED;
 }
 
+h3 {
+    color: #929CA4;
+    border-bottom: 1px;
+
+}
+
+p:first-of-type::first-letter {
+    font-size: 30px;
+}
