@@ -1,12 +1,18 @@
-body {
+body{
+
+    margin-left: 20px;
     width:960px;
-    margin-left:20px;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    margin-right: 0em;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
     line-height: 2em;
 }
+
+ul:first-of-type li{
+    list-style-type: none;
+    margin: -40px 40px 40px -40px;
+}
+
+
+
 
 
