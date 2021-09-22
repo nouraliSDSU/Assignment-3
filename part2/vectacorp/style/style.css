@@ -12,7 +12,14 @@ ul:first-of-type li{
     margin: -40px 40px 40px -40px;
 }
 
-
+h2 {
+    color: #CC1C0D;
+    background-color: #DFE3E6;
+    border: 1px solid #929CA4;
+    font-size: 1.2em;
+    padding-left: 10px;
+    border-radius: 5px;
+}
 
 
 
